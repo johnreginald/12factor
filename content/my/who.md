@@ -1,4 +1,4 @@
-Who should read this document?
+ဒီစာတမ်းကို ဘယ်သူတွေ ဖတ်သင့်သလဲ။
 ==============================
 
-Any developer building applications which run as a service.  Ops engineers who deploy or manage such applications.
+service အဖြစ် ဝန်ဆောင်မှုပေးနေသော applications များကို တည်ဆောက်နေသော developer များ။ အဆိုပါ applications များကို deploy ပြုလုပ်နေသော သို့မဟုတ် စီမံ ထိန်းသိမ်းနေသော Ops engineers များ။
